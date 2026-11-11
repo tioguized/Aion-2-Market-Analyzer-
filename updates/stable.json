@@ -1,0 +1,11 @@
+{
+  "version": "5.1.2",
+  "from_version": "5.1.1",
+  "files": [
+    {
+      "path": "AION_CYBER_INTERFACE.html",
+      "url": "https://github.com/tioguized/Aion-2-Market-Analyzer-/releases/download/v5.1.2/AION_CYBER_INTERFACE.html",
+      "sha256": "2fa7cad7322305d63af71ec472c27b37917d9384955213b6ac1d78e7f48b0d85"
+    }
+  ]
+}
